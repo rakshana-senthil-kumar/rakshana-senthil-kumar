@@ -88,6 +88,10 @@ Growing         → Open Source & Developer Community
 </p>
 
 ---
+🕹️ Pac-Man Eats My Contributions!
+<p align="center"> <img src="https://raw.githubusercontent.com/ajaiselvaraj/ajaiselvaraj/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/> </p>
+
+---
 
 # 🐍 Contribution Journey
 
